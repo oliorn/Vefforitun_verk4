@@ -103,7 +103,9 @@ Verkefni sett fyrir í fyrirlestri mánudaginn 21. september 2020.
 
 Skila skal í Canvas í seinasta lagi fyrir lok dags þriðjudaginn 29. september 2020.
 
-Skilaboð skulu innihalda slóð á verkefni ásamt zip skjali með lausn sem heitir ``verkefni4-<notendanafn>.zip`, t.d. `verkefni4-osk.zip`.
+Skilaboð skulu innihalda slóð á verkefni ásamt zip skjali með lausn sem heitir `verkefni4-<notendanafn>.zip`, t.d. `verkefni4-osk.zip`.
+
+Hver dagur eftir skil dregur verkefni niður um 10%, allt að 30% ef skilað föstudaginn 2. október 2020 en þá lokar fyrir skil.
 
 ## Einkunn
 
